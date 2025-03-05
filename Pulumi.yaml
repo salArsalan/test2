@@ -1,0 +1,10 @@
+name: test2
+description: test2 is the name
+runtime:
+  name: nodejs
+  options:
+    packagemanager: npm
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: aws-typescript

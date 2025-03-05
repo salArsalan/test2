@@ -1,0 +1,5 @@
+config:
+  aws:region: us-east-1
+  test2:dbPassword:
+    secure: AAABAINrXhSrsBE9Dk1VNji66q8AmmHvyv9XjIjLP69hxgf5kUBoYRbReDoc
+  test2:dbUser: admin
